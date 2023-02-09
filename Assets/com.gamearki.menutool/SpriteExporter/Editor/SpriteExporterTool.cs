@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using System.Linq;
 
-namespace GameArki.EditorTool {
+namespace GameArki.MenuTool {
 
     public class SpriteToSplit {
 

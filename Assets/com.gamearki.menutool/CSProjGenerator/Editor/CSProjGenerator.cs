@@ -6,9 +6,8 @@ using UnityEngine;
 using UnityEditor;
 using Unity.CodeEditor;
 using VSCodeEditor;
-using GameArki;
 
-namespace GameArki.EditorTool {
+namespace GameArki.MenuTool {
 
     public static class CSProjGenerator {
 
